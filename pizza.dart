@@ -28,7 +28,7 @@ void main() {
       break;
     default:
       print('Invalid size.');
-      return; // Exits the program if the size is wrong
+      return; //exits the program if the size input is wrong
   }
 
   //calculate and print the final total
